@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF21D0F1-95C6-4D3B-958D-6EA4C5C007F4}|calculator.vcxproj|C:\\Users\\Admin\\source\\repos\\calculator\\calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF21D0F1-95C6-4D3B-958D-6EA4C5C007F4}|calculator.vcxproj|solutionrelative:calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\calculator\\calculator.cpp",
+              "RelativeDocumentMoniker": "calculator.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\calculator\\calculator.cpp",
+              "RelativeToolTip": "calculator.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T21:04:48.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
